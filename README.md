@@ -22,31 +22,4 @@ The Loan Default Risk Dashboard is an end-to-end SQL and Power BI analytics proj
    * Identify key factors associated with higher historical default rates.
    * Create a transparent risk-scoring framework to prioritize applications for manual review.
    * Build an interactive Power BI dashboard to support credit-risk decision-making.
-
-### Dataset
-The project uses the Lending Club accepted loan dataset covering 2007–2018.
-The original dataset contains loan-level information about borrowers, loan characteristics and repayment outcomes.
-
-* Main fields used
-       * id
-       * loan_amnt
-       * term
-       * int_rate
-       * grade
-       * sub_grade
-       * emp_length
-       * home_ownership
-       * annual_inc
-       * verification_status
-       * issue_d
-       * loan_status
-       * purpose
-       * addr_state
-       * dti
-       * delinq_2yrs
-       * fico_range_low
-       * fico_range_high
-       * inq_last_6mths
-       * revol_util
-       * total_acc
-       * application_type
+ 
