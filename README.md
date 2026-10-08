@@ -28,25 +28,25 @@ The project uses the Lending Club accepted loan dataset covering 2007–2018.
 The original dataset contains loan-level information about borrowers, loan characteristics and repayment outcomes.
 
 * Main fields used
-        id
-        loan_amnt
-        term
-        int_rate
-        grade
-        sub_grade
-        emp_length
-        home_ownership
-        annual_inc
-        verification_status
-        issue_d
-        loan_status
-        purpose
-        addr_state
-        dti
-        delinq_2yrs
-        fico_range_low
-        fico_range_high
-        inq_last_6mths
-        revol_util
-        total_acc
-        application_type
+       * id
+       * loan_amnt
+       * term
+       * int_rate
+       * grade
+       * sub_grade
+       * emp_length
+       * home_ownership
+       * annual_inc
+       * verification_status
+       * issue_d
+       * loan_status
+       * purpose
+       * addr_state
+       * dti
+       * delinq_2yrs
+       * fico_range_low
+       * fico_range_high
+       * inq_last_6mths
+       * revol_util
+       * total_acc
+       * application_type
