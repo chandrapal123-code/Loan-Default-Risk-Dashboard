@@ -13,4 +13,5 @@ The Loan Default Risk Dashboard is an end-to-end SQL and Power BI analytics proj
     * Where is the portfolio's lending exposure concentrated?
     * Which individual applications contain multiple high-risk characteristics?
     * Which applications should receive additional manual review?
-*** This project converts the raw loan data into a structured risk-analysis solution and an interactive Power BI dashboard.
+
+ #  This project converts the raw loan data into a structured risk-analysis solution and an interactive Power BI dashboard.
