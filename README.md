@@ -35,4 +35,21 @@ SQL + Power BI credit-risk analytics project identifying high-risk customer segm
    * Missing risk variables
    * Invalid or incomplete records
 
+## Portfolio Analysis
+ 
+    The dashboard provides portfolio-level KPIs:
+    Total Loans
+    Total number of loan applications.
+    Total Loan Amount
+    Total amount of loans in the portfolio.
+    Defaulted Loans
+    Number of loans classified as historically defaulted.
+    Observed Historical Default Rate
+                    Defaulted Loans
+                    ---------------- × 100
+                    Total Loans
+    Average Loan Amount
+    Average amount per loan.
+    Average Interest Rate
+    Average interest rate across the portfolio.
 
