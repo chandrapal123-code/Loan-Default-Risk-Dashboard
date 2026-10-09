@@ -63,21 +63,15 @@ SQL + Power BI credit-risk analytics project identifying high-risk customer segm
     Average interest rate across the portfolio.
     
 ## Key Business Insights
- * 1. Customer Segment Risk
-      * Low-income borrowers had the highest observed historical default rate at 14.22%.
- * 2. Loan Type Risk
-      * Small Business loans had an observed historical default rate of 18.55%, making them one of the higher-risk loan categories in the analysis.
- * 3. Grade Risk
-      * Grades E, F and G had substantially higher historical default rates than lower-risk grades.
- * 4. Credit Score Risk
-      * Lower FICO segments had higher historical default rates.
- * 5. Debt Burden
-      * Very-high DTI loans had a 15.26% historical default rate.
- * 6. Interest Rate Risk
-      * Loans with interest rates of 20%+ had a 24.07% historical default rate.
- * 7. Manual Review
-      * Approximately 44,856 applications were identified for manual review using the project-defined risk-screening framework.
+ * Key Business Insights
+   * Customer income: The Low Income segment had the highest observed historical default rate at 14.22%, compared with 8.52% for the High Income segment.
+   * Loan purpose: Small Business loans showed an observed historical default rate of 18.55%, followed by Renewable Energy at 15.29% and Moving at 14.37%.
+   * Loan grade: Grade G had the highest observed historical default rate among the reported grades at 37.48%, followed by Grade F at 34.67%.
+   * Credit score: The Low FICO segment had an observed historical default rate of 16.98%, while the Excellent FICO segment had 3.20%.
+   * Debt burden: The Very High DTI segment had an observed historical default rate of 15.26%, compared with 8.97% for the Low DTI segment.
+   * Manual review: A project-defined risk-scoring framework flagged approximately 44,856 applications for additional review.
 
+These findings describe historical patterns in the analyzed dataset. They do not establish causation or predict an individual borrower's future default.
 ### Business Recommendations
    * Based on the analysis:
      * Prioritize high-risk applications containing multiple risk indicators for manual review.
