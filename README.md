@@ -52,4 +52,19 @@ SQL + Power BI credit-risk analytics project identifying high-risk customer segm
     Average amount per loan.
     Average Interest Rate
     Average interest rate across the portfolio.
-
+    
+## Key Business Insights
+ * 1. Customer Segment Risk
+      * Low-income borrowers had the highest observed historical default rate at 14.22%.
+ * 2. Loan Type Risk
+      * Small Business loans had an observed historical default rate of 18.55%, making them one of the higher-risk loan categories in the analysis.
+ * 3. Grade Risk
+      * Grades E, F and G had substantially higher historical default rates than lower-risk grades.
+ * 4. Credit Score Risk
+      * Lower FICO segments had higher historical default rates.
+ * 5. Debt Burden
+      * Very-high DTI loans had a 15.26% historical default rate.
+ * 6. Interest Rate Risk
+      * Loans with interest rates of 20%+ had a 24.07% historical default rate.
+ * 7. Manual Review
+      * Approximately 44,856 applications were identified for manual review using the project-defined risk-screening framework.
