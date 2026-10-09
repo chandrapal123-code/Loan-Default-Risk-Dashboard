@@ -80,3 +80,5 @@ These findings describe historical patterns in the analyzed dataset. They do not
      * Use multiple risk indicators together instead of relying on a single variable.
      * Monitor portfolio exposure, not only default rates, because a large loan category can represent significant financial exposure even when its default rate         is moderate.
      * Use the dashboard as a decision-support and risk-monitoring tool, not as an automated loan approval/rejection system.
+    
+ ## Dashboard Preview
