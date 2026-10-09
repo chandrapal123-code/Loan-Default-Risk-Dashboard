@@ -82,5 +82,5 @@ These findings describe historical patterns in the analyzed dataset. They do not
      * Use the dashboard as a decision-support and risk-monitoring tool, not as an automated loan approval/rejection system.
     
  ## Dashboard Preview
-    ![Loan-Default-Risk-Dashboard](<img width="1311" height="741" alt="Screenshot 2026-10-07 115411" src="https://github.com/user-attachments/assets/618c59c9-8a4d-415a-b057-be450ed6aa2a" />
+    ![Loan-Default-Risk-Dashboard](Screenshot 2026-10-07 115420.png)
 )
