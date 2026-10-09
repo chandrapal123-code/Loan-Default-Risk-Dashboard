@@ -1,4 +1,0 @@
-risk_category,review_status,total_applications,defaulted_loans,default_rate,avg_loan_amount
-High Risk,Manual Review,44856,13143,29.3,17865.41
-Low Risk,Standard Review,1945132,194338,9.99,14729.73
-Medium Risk,Standard Review,270713,61118,22.58,16859.08
