@@ -13,6 +13,15 @@ SQL + Power BI credit-risk analytics project identifying high-risk customer segm
     * Which individual applications contain multiple high-risk characteristics?
     * Which applications should receive additional manual review?
 
+## Tools & Technologies
+    SQL — Data analysis, transformations, segmentation, and risk calculations
+    SQLite — Database management and SQL execution
+    Python — Data loading and processing using Pandas
+    Power BI — Interactive dashboards and visualizations
+    DAX — Measures and default-rate calculations
+    Power Query — Data preparation and transformation
+    GitHub — Project documentation and version control
+
 * This project converts the raw loan data into a structured risk-analysis solution and an interactive Power BI dashboard.
 ### Project Objectives
    * Analyze overall loan portfolio risk and default performance.
