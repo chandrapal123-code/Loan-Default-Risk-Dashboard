@@ -21,4 +21,18 @@ SQL + Power BI credit-risk analytics project identifying high-risk customer segm
    * Identify key factors associated with higher historical default rates.
    * Create a transparent risk-scoring framework to prioritize applications for manual review.
    * Build an interactive Power BI dashboard to support credit-risk decision-making.
- 
+
+### Data Preparation
+  * The selected loan fields were loaded into SQLite using Python and Pandas.
+  * The project first created a raw table:
+
+        loans_raw
+
+* Data quality checks were performed for:
+   * Missing values
+   * Duplicate loan IDs
+   * Loan status distribution
+   * Missing risk variables
+   * Invalid or incomplete records
+
+
