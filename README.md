@@ -68,3 +68,12 @@ SQL + Power BI credit-risk analytics project identifying high-risk customer segm
       * Loans with interest rates of 20%+ had a 24.07% historical default rate.
  * 7. Manual Review
       * Approximately 44,856 applications were identified for manual review using the project-defined risk-screening framework.
+
+### Business Recommendations
+   * Based on the analysis:
+     * Prioritize high-risk applications containing multiple risk indicators for manual review.
+     * Monitor high-risk loan types such as Small Business and other categories with elevated historical default rates.
+     * Monitor lower-income customer segments because they showed higher historical default rates in this portfolio.
+     * Use multiple risk indicators together instead of relying on a single variable.
+     * Monitor portfolio exposure, not only default rates, because a large loan category can represent significant financial exposure even when its default rate         is moderate.
+     * Use the dashboard as a decision-support and risk-monitoring tool, not as an automated loan approval/rejection system.
