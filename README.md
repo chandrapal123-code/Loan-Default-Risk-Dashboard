@@ -83,6 +83,6 @@ These findings describe historical patterns in the analyzed dataset. They do not
     
  ## Dashboard Preview
 
- 
-screenshort:- ![Loan-Default-Risk-Dashboard](Screenshot 2026-10-07 115411.png)
+ screenshot:-![Loan Default Risk Dashboard](Screenshot%202026-10-07%20115420.png)
+
 )
