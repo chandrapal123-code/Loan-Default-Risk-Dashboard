@@ -83,6 +83,7 @@ These findings describe historical patterns in the analyzed dataset. They do not
     
  ## Dashboard Preview
 
- screenshot:-![Loan Default Risk Dashboard](Screenshot%202026-10-07%20115420.png)
-
+ screenshots:-![Loan Default Risk Dashboard](Screenshot%202026-10-07%20115420.png)
+  ![Loan Default Risk Dashboard](Screenshot%202026-10-07%20115420.png)
+  ![Loan Default Risk Dashboard](Screenshot%202026-10-07%20115435.png)
 )
